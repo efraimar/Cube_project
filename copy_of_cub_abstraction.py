@@ -212,4 +212,5 @@ print(x.history_move)
 x.print_cube()
 x.solve_scramble()
 x.print_cube()
+# this for study
 
