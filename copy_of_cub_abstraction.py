@@ -4,7 +4,7 @@ import numpy as np
 import copy
 import random
 
-
+# change somthing 2
 class Cube:
     def __init__(self):
         self.opposite_faces = {"w": "y", "y": "w", "g": "b", "b": "g", "o": "r", "r": "o"}
